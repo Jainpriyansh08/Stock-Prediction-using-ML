@@ -1,15 +1,17 @@
 # Stock-Prediction-using-ML
 
-<img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/f5c00812-e266-4f15-86d9-fec1e38adb47">
+<img width="455" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/f5c00812-e266-4f15-86d9-fec1e38adb47">
+
+<img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/118fd1ef-7a65-46c2-bcc9-45659237cf9c">
+
+<img width="437" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/259f5745-6ca4-46ed-b59f-253ea4d82b8d">
+
+ <img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/ea811e18-b6f4-4698-a84e-168f75837f55">
+
+<img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/a760d1ea-c3da-46fb-b348-e9d6afd628eb">
 
 
-
- 
-
-
- 
-
- 
+ <img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/fa5cecc0-8910-44ab-901e-9e3cb1e78fc4">
 
  
 
