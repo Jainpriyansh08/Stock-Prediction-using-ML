@@ -1,5 +1,8 @@
 # Stock-Prediction-using-ML
 
+# PROJECT LINK
+https://colab.research.google.com/drive/1W1JcWZM9rvnsNxkM1lPeSWhnUsCk0LTh#scrollTo=Q_CLP6e97agI
+
 <img width="455" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/f5c00812-e266-4f15-86d9-fec1e38adb47">
 
 <img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/118fd1ef-7a65-46c2-bcc9-45659237cf9c">
@@ -22,7 +25,7 @@
  
  
  
-#CONCLUSION
+# CONCLUSION
 
 #A. Finding
 
@@ -56,7 +59,7 @@ SKILL:
 
  
 
-#B. FURTHER RESEARCH
+# B. FURTHER RESEARCH
 
    Future researchers may include more methods for finding the best model for predicting stock prices. Twitter sentiment analysis technique can be used to perform a voting system along with this model, which can avoid 
    the complete dependence on historical stock data. A news-based system can also be integrated to get fresh news along with the specific firm's previous historical results to avoid market losses. Instead of 
