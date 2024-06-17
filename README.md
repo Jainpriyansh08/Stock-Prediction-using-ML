@@ -14,14 +14,17 @@
  <img width="452" alt="image" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/fa5cecc0-8910-44ab-901e-9e3cb1e78fc4">
 
  
+#RESULT:
+<img width="1557" alt="Screenshot 2024-06-17 at 6 12 47 PM" src="https://github.com/Jainpriyansh08/Stock-Prediction-using-ML/assets/170538822/c3a1e177-6864-4703-acd6-2562f5951df3">
 
  
  
  
  
  
-CONCLUSION
-A. Finding
+#CONCLUSION
+
+#A. Finding
 
    In this paper, we have proposed a stock recommendation system using Random Forest and J48 Algorithm. Instead of using raw data, sampled data is used to predict future trends, but sampled data cause the effect of    
    data overfitting which is further reduced by pruning trees, Random Forest and Bagging techniques. It is observed that in real-time scenarios this model yields good result with less risk. he stocks return of listed 
@@ -53,7 +56,7 @@ SKILL:
 
  
 
-B. FURTHER RESEARCH
+#B. FURTHER RESEARCH
 
    Future researchers may include more methods for finding the best model for predicting stock prices. Twitter sentiment analysis technique can be used to perform a voting system along with this model, which can avoid 
    the complete dependence on historical stock data. A news-based system can also be integrated to get fresh news along with the specific firm's previous historical results to avoid market losses. Instead of 
